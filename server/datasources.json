@@ -2,5 +2,15 @@
   "db": {
     "name": "db",
     "connector": "memory"
+  },
+  "mypg": {
+    "name": "mypg",
+    "host": "localhost",
+    "port": 5432,
+    "database": "coffe",
+    "username": "ertech",
+    "password": "am3ricas",
+    "name": "mypg",
+    "connector": "postgresql"
   }
 }

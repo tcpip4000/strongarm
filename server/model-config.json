@@ -35,5 +35,9 @@
   "CoffeShop": {
     "dataSource": "db",
     "public": true
+  },
+  "Agency": {
+    "dataSource": "mypg",
+    "public": true
   }
 }
